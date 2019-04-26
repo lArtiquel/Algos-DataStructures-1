@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\артём\visual studia projects\проект2\проект2\source.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\артём\visual studia projects\проект2\проект2\source.cpp(9): warning C4101: a: неиспользованная локальная переменная
+d:\артём\visual studia projects\проект2\проект2\source.cpp(9): warning C4101: sum: неиспользованная локальная переменная
+d:\артём\visual studia projects\проект2\проект2\source.cpp(9): warning C4101: b: неиспользованная локальная переменная
+d:\артём\visual studia projects\проект2\проект2\source.cpp(9): warning C4101: nazv: неиспользованная локальная переменная
+d:\артём\visual studia projects\проект2\проект2\source.cpp(9): warning C4101: t: неиспользованная локальная переменная
+  Проект2.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\Проект2\Debug\Проект2.exe
+  Проект2.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\Проект2\Debug\Проект2.pdb (Partial PDB)

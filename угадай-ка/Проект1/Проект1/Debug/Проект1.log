@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\артём\visual studia projects\угадай-ка\проект1\проект1\source.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Проект1.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\угадай-ка\Проект1\Debug\Проект1.exe
+  Проект1.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\угадай-ка\Проект1\Debug\Проект1.pdb (Partial PDB)

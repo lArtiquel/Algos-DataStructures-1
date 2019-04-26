@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\артём\visual studia projects\массивы\массивы\source.cpp(35): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  массивы.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\массивы\Debug\массивы.exe
+  массивы.vcxproj -> D:\Артём\VISUAL STUDIA PROJECTS\массивы\Debug\массивы.pdb (Partial PDB)
